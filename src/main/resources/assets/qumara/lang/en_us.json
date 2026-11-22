@@ -1,0 +1,19 @@
+{
+  "entity.qumara.qumara": "QUMARA",
+  "item.qumara.qumara_spawn_egg": "Qumara Spawn Egg",
+  "qumara.title": "QUMARA",
+  "qumara.subtitle": "The Ancient Garden Awakens",
+  "subtitles.qumara.idle": "Qumara breathes",
+  "subtitles.qumara.spawn_rumble": "The ground trembles",
+  "subtitles.qumara.earth_crack": "Earth cracks",
+  "subtitles.qumara.roots_grow": "Roots grow",
+  "subtitles.qumara.arm_move": "Qumara moves an arm",
+  "subtitles.qumara.tongue_lash": "Qumara lashes its tongue",
+  "subtitles.qumara.impact": "Heavy impact",
+  "subtitles.qumara.warning": "Danger zone",
+  "subtitles.qumara.fury": "Qumara roars",
+  "subtitles.qumara.hurt": "Qumara is hurt",
+  "subtitles.qumara.death": "Qumara dies",
+  "subtitles.qumara.garden_bloom": "The garden blooms",
+  "subtitles.qumara.vine_whip": "A vine whips"
+}

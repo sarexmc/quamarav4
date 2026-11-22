@@ -1,0 +1,15 @@
+{
+  "idle":         { "subtitle": "subtitles.qumara.idle",         "sounds": [ { "name": "entity.ravager.ambient",       "type": "event", "pitch": 0.45, "volume": 0.9 }, { "name": "entity.warden.ambient", "type": "event", "pitch": 0.6, "volume": 0.5 } ] },
+  "spawn_rumble": { "subtitle": "subtitles.qumara.spawn_rumble", "sounds": [ { "name": "entity.warden.emerge",         "type": "event", "pitch": 0.5,  "volume": 1.6 } ] },
+  "earth_crack":  { "subtitle": "subtitles.qumara.earth_crack",  "sounds": [ { "name": "block.rooted_dirt.break",      "type": "event", "pitch": 0.5,  "volume": 1.8 }, { "name": "entity.iron_golem.damage", "type": "event", "pitch": 0.5, "volume": 1.0 } ] },
+  "roots_grow":   { "subtitle": "subtitles.qumara.roots_grow",   "sounds": [ { "name": "block.mangrove_roots.break",   "type": "event", "pitch": 0.6,  "volume": 1.5 }, { "name": "block.moss.break", "type": "event", "pitch": 0.5, "volume": 1.2 } ] },
+  "arm_move":     { "subtitle": "subtitles.qumara.arm_move",     "sounds": [ { "name": "block.wood.break",             "type": "event", "pitch": 0.5,  "volume": 1.2 }, { "name": "block.grass.break", "type": "event", "pitch": 0.5, "volume": 1.2 } ] },
+  "tongue_lash":  { "subtitle": "subtitles.qumara.tongue_lash",  "sounds": [ { "name": "entity.frog.tongue",           "type": "event", "pitch": 0.5,  "volume": 1.8 }, { "name": "entity.player.attack.sweep", "type": "event", "pitch": 0.6, "volume": 1.2 } ] },
+  "impact":       { "subtitle": "subtitles.qumara.impact",       "sounds": [ { "name": "entity.generic.explode",       "type": "event", "pitch": 0.55, "volume": 1.3 }, { "name": "entity.iron_golem.attack", "type": "event", "pitch": 0.4, "volume": 1.5 } ] },
+  "warning":      { "subtitle": "subtitles.qumara.warning",      "sounds": [ { "name": "block.note_block.bass",        "type": "event", "pitch": 0.6,  "volume": 0.6 } ] },
+  "fury":         { "subtitle": "subtitles.qumara.fury",         "sounds": [ { "name": "entity.ravager.roar",          "type": "event", "pitch": 0.4,  "volume": 2.0 }, { "name": "entity.warden.sonic_boom", "type": "event", "pitch": 0.5, "volume": 0.7 } ] },
+  "hurt":         { "subtitle": "subtitles.qumara.hurt",         "sounds": [ { "name": "entity.ravager.hurt",          "type": "event", "pitch": 0.45, "volume": 1.4 } ] },
+  "death":        { "subtitle": "subtitles.qumara.death",        "sounds": [ { "name": "entity.ravager.death",         "type": "event", "pitch": 0.4,  "volume": 2.0 }, { "name": "entity.warden.death", "type": "event", "pitch": 0.6, "volume": 1.0 } ] },
+  "garden_bloom": { "subtitle": "subtitles.qumara.garden_bloom", "sounds": [ { "name": "block.azalea_leaves.break",    "type": "event", "pitch": 0.6,  "volume": 1.6 }, { "name": "block.spore_blossom.place", "type": "event", "pitch": 0.5, "volume": 1.2 } ] },
+  "vine_whip":    { "subtitle": "subtitles.qumara.vine_whip",    "sounds": [ { "name": "entity.fishing_bobber.throw",  "type": "event", "pitch": 0.5,  "volume": 1.4 }, { "name": "block.vine.break", "type": "event", "pitch": 0.5, "volume": 1.4 } ] }
+}

@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.qumara.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["BossBarHudMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

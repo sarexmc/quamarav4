@@ -1,0 +1,19 @@
+{
+  "entity.qumara.qumara": "QUMARA",
+  "item.qumara.qumara_spawn_egg": "Huevo generador de Qumara",
+  "qumara.title": "QUMARA",
+  "qumara.subtitle": "El Jardín Ancestral despierta",
+  "subtitles.qumara.idle": "Qumara respira",
+  "subtitles.qumara.spawn_rumble": "El suelo tiembla",
+  "subtitles.qumara.earth_crack": "La tierra se quiebra",
+  "subtitles.qumara.roots_grow": "Crecen raíces",
+  "subtitles.qumara.arm_move": "Qumara mueve un brazo",
+  "subtitles.qumara.tongue_lash": "Qumara lanza su lengua",
+  "subtitles.qumara.impact": "Impacto pesado",
+  "subtitles.qumara.warning": "Zona de peligro",
+  "subtitles.qumara.fury": "Qumara ruge",
+  "subtitles.qumara.hurt": "Qumara está herida",
+  "subtitles.qumara.death": "Qumara muere",
+  "subtitles.qumara.garden_bloom": "El jardín florece",
+  "subtitles.qumara.vine_whip": "Una enredadera restalla"
+}

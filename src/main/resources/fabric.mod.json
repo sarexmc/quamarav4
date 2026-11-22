@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "qumara",
+  "version": "${version}",
+  "name": "Qumara",
+  "description": "Jefe cinematico QUMARA: una antigua entidad vegetal enterrada, con modelo organico esqueletizado propio, indicadores de peligro, BossBar personalizada y combate multijugador autoritativo.",
+  "authors": ["DEDsafio"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.qumara.QumaraMod"],
+    "client": ["dev.qumara.client.QumaraClient"]
+  },
+  "mixins": [
+    { "config": "qumara.client.mixins.json", "environment": "client" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": ">=0.110.0"
+  }
+}
